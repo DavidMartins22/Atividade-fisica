@@ -9,8 +9,7 @@ Este programa é seu guia completo para uma semana de treinos, e ele ainda te mo
 ## Sobre o Projeto
 
 Este projeto é uma aplicação de console simples, mas útil, que atua como um planejador de treinos semanal. 
-Ele apresenta um menu interativo onde você pode selecionar um dia da semana para ver a rotina de exercícios correspondente. 
-Além disso, ele monitora quantas vezes cada dia foi consultado e, ao final, revela o **"TOP DAY"** — o treino mais popular entre os usuários!
+Ele foi desenvolvido como um **trabalho para a faculdade de Análise e Desenvolvimento de Sistemas (ADS)**. A aplicação apresenta um menu interativo onde você pode selecionar um dia da semana para ver a rotina de exercícios correspondente. Além disso, ela monitora quantas vezes cada dia foi consultado e, ao final, revela o **"TOP DAY"** — o treino mais popular entre os usuários!
 
 ---
 
